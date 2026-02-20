@@ -17,6 +17,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "string": "Test Product"
+                },
+                {
+                  "string": "Description"
+                },
+                {
+                  "string": "Origin"
+                },
+                {
+                  "string": "Category"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -63,6 +76,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -88,6 +102,10 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "symbol": "EVENT"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -100,6 +118,7 @@
                   "bytes": "0000000000000000000000000000000000000000000000000000000000000000"
                 },
                 {
+                  "string": "Event Note"
                   "string": "Washed and dried"
                 },
                 {
@@ -111,6 +130,7 @@
           "sub_invocations": []
         }
       ]
+    ]
     ],
     []
   ],
@@ -134,6 +154,7 @@
                   "symbol": "Auth"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -157,6 +178,7 @@
                       "symbol": "Auth"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     },
                     {
@@ -185,6 +207,7 @@
                   "symbol": "Auth"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -208,6 +231,7 @@
                       "symbol": "Auth"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     },
                     {
@@ -292,6 +316,7 @@
                         "symbol": "event_type"
                       },
                       "val": {
+                        "symbol": "EVENT"
                         "symbol": "PROCESS"
                       }
                     },
@@ -316,6 +341,7 @@
                         "symbol": "note"
                       },
                       "val": {
+                        "string": "Event Note"
                         "string": "Washed and dried"
                       }
                     },
@@ -324,6 +350,7 @@
                         "symbol": "product_id"
                       },
                       "val": {
+                        "string": "PROD-01"
                         "string": "COFFEE-ETH-001"
                       }
                     },
@@ -390,6 +417,10 @@
             "key": {
               "vec": [
                 {
+                  "symbol": "Product"
+                },
+                {
+                  "string": "PROD-01"
                   "symbol": "EventTypeCount"
                 },
                 {
@@ -521,6 +552,7 @@
                       "symbol": "Product"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     }
                   ]
@@ -541,6 +573,7 @@
                         "symbol": "category"
                       },
                       "val": {
+                        "string": "Category"
                         "string": "Coffee"
                       }
                     },
@@ -573,6 +606,7 @@
                         "symbol": "description"
                       },
                       "val": {
+                        "string": "Description"
                         "string": "Premium single-origin coffee"
                       }
                     },
@@ -581,6 +615,7 @@
                         "symbol": "id"
                       },
                       "val": {
+                        "string": "PROD-01"
                         "string": "COFFEE-ETH-001"
                       }
                     },
@@ -597,6 +632,7 @@
                         "symbol": "name"
                       },
                       "val": {
+                        "string": "Test Product"
                         "string": "Organic Coffee Beans"
                       }
                     },
@@ -611,6 +647,7 @@
                               "symbol": "location"
                             },
                             "val": {
+                              "string": "Origin"
                               "string": "Yirgacheffe, Ethiopia"
                             }
                           }
@@ -652,6 +689,7 @@
                   "symbol": "ProductEventIds"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 }
               ]
@@ -672,6 +710,7 @@
                       "symbol": "ProductEventIds"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     }
                   ]
@@ -870,6 +909,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "string": "Test Product"
+                },
+                {
+                  "string": "Description"
+                },
+                {
+                  "string": "Origin"
+                },
+                {
+                  "string": "Category"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -1047,6 +1099,7 @@
                 "symbol": "register_product"
               }
             ],
+            "data": "void"
             "data": {
               "map": [
                 {
@@ -1185,6 +1238,7 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -1242,6 +1296,10 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "symbol": "EVENT"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -1254,6 +1312,7 @@
                   "bytes": "0000000000000000000000000000000000000000000000000000000000000000"
                 },
                 {
+                  "string": "Event Note"
                   "string": "Washed and dried"
                 },
                 {

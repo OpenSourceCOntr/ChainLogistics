@@ -17,6 +17,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "string": "Test Product"
+                },
+                {
+                  "string": "Description"
+                },
+                {
+                  "string": "Origin"
+                },
+                {
+                  "string": "Category"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -72,6 +85,7 @@
                   "symbol": "Auth"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -95,6 +109,7 @@
                       "symbol": "Auth"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     },
                     {
@@ -123,6 +138,7 @@
                   "symbol": "Product"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 }
               ]
@@ -143,6 +159,7 @@
                       "symbol": "Product"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     }
                   ]
@@ -163,6 +180,7 @@
                         "symbol": "category"
                       },
                       "val": {
+                        "string": "Category"
                         "string": "Coffee"
                       }
                     },
@@ -195,6 +213,7 @@
                         "symbol": "description"
                       },
                       "val": {
+                        "string": "Description"
                         "string": "Premium single-origin coffee"
                       }
                     },
@@ -203,6 +222,7 @@
                         "symbol": "id"
                       },
                       "val": {
+                        "string": "PROD-01"
                         "string": "COFFEE-ETH-001"
                       }
                     },
@@ -219,6 +239,7 @@
                         "symbol": "name"
                       },
                       "val": {
+                        "string": "Test Product"
                         "string": "Organic Coffee Beans"
                       }
                     },
@@ -233,6 +254,7 @@
                               "symbol": "location"
                             },
                             "val": {
+                              "string": "Origin"
                               "string": "Yirgacheffe, Ethiopia"
                             }
                           }
@@ -274,6 +296,7 @@
                   "symbol": "ProductEventIds"
                 },
                 {
+                  "string": "PROD-01"
                   "string": "COFFEE-ETH-001"
                 }
               ]
@@ -294,6 +317,7 @@
                       "symbol": "ProductEventIds"
                     },
                     {
+                      "string": "PROD-01"
                       "string": "COFFEE-ETH-001"
                     }
                   ]
@@ -422,6 +446,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "string": "Test Product"
+                },
+                {
+                  "string": "Description"
+                },
+                {
+                  "string": "Origin"
+                },
+                {
+                  "string": "Category"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -599,6 +636,7 @@
                 "symbol": "register_product"
               }
             ],
+            "data": "void"
             "data": {
               "map": [
                 {
@@ -737,6 +775,10 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                 },
                 {
+                  "string": "PROD-01"
+                },
+                {
+                  "symbol": "EVENT"
                   "string": "COFFEE-ETH-001"
                 },
                 {
@@ -749,6 +791,7 @@
                   "bytes": "0000000000000000000000000000000000000000000000000000000000000000"
                 },
                 {
+                  "string": "Event Note"
                   "string": ""
                 },
                 {
@@ -842,6 +885,10 @@
                       "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                     },
                     {
+                      "string": "PROD-01"
+                    },
+                    {
+                      "symbol": "EVENT"
                       "string": "COFFEE-ETH-001"
                     },
                     {
@@ -854,6 +901,7 @@
                       "bytes": "0000000000000000000000000000000000000000000000000000000000000000"
                     },
                     {
+                      "string": "Event Note"
                       "string": ""
                     },
                     {
