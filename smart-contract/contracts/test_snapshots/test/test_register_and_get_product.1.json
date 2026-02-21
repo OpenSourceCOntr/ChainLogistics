@@ -36,31 +36,80 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
-                },
-                {
-                  "string": "Organic Coffee Beans"
-                },
-                {
-                  "string": ""
-                },
-                {
-                  "string": "Yirgacheffe, Ethiopia"
-                },
-                {
-                  "string": "Coffee"
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "map": []
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "category"
+                      },
+                      "val": {
+                        "string": "Coffee"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "certifications"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "custom"
+                      },
+                      "val": {
+                        "map": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "description"
+                      },
+                      "val": {
+                        "string": "Premium single-origin coffee from Ethiopia"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "id"
+                      },
+                      "val": {
+                        "string": "COFFEE-ETH-001"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "media_hashes"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "name"
+                      },
+                      "val": {
+                        "string": "Organic Coffee Beans"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "origin_location"
+                      },
+                      "val": {
+                        "string": "Yirgacheffe, Ethiopia"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "tags"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -289,10 +338,18 @@
                     },
                     {
                       "key": {
+                        "symbol": "deactivation_info"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
                         "symbol": "description"
                       },
                       "val": {
-                        "string": ""
+                        "string": "Premium single-origin coffee from Ethiopia"
                       }
                     },
                     {
@@ -473,7 +530,32 @@
                     "executable": {
                       "wasm": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
                     },
-                    "storage": null
+                    "storage": [
+                      {
+                        "key": {
+                          "vec": [
+                            {
+                              "symbol": "ActiveProducts"
+                            }
+                          ]
+                        },
+                        "val": {
+                          "u64": 1
+                        }
+                      },
+                      {
+                        "key": {
+                          "vec": [
+                            {
+                              "symbol": "TotalProducts"
+                            }
+                          ]
+                        },
+                        "val": {
+                          "u64": 1
+                        }
+                      }
+                    ]
                   }
                 }
               }
@@ -644,31 +726,80 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
-                },
-                {
-                  "string": "Organic Coffee Beans"
-                },
-                {
-                  "string": ""
-                },
-                {
-                  "string": "Yirgacheffe, Ethiopia"
-                },
-                {
-                  "string": "Coffee"
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "vec": []
-                },
-                {
-                  "map": []
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "category"
+                      },
+                      "val": {
+                        "string": "Coffee"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "certifications"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "custom"
+                      },
+                      "val": {
+                        "map": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "description"
+                      },
+                      "val": {
+                        "string": "Premium single-origin coffee from Ethiopia"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "id"
+                      },
+                      "val": {
+                        "string": "COFFEE-ETH-001"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "media_hashes"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "name"
+                      },
+                      "val": {
+                        "string": "Organic Coffee Beans"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "origin_location"
+                      },
+                      "val": {
+                        "string": "Yirgacheffe, Ethiopia"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "tags"
+                      },
+                      "val": {
+                        "vec": []
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -736,10 +867,18 @@
                 },
                 {
                   "key": {
+                    "symbol": "deactivation_info"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                },
+                {
+                  "key": {
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Premium single-origin coffee from Ethiopia"
                   }
                 },
                 {
@@ -865,10 +1004,18 @@
                 },
                 {
                   "key": {
+                    "symbol": "deactivation_info"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                },
+                {
+                  "key": {
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Premium single-origin coffee from Ethiopia"
                   }
                 },
                 {
@@ -1020,10 +1167,18 @@
                 },
                 {
                   "key": {
+                    "symbol": "deactivation_info"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                },
+                {
+                  "key": {
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Premium single-origin coffee from Ethiopia"
                   }
                 },
                 {
